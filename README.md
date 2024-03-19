@@ -4,5 +4,5 @@
 -> Basys3 Atrix-7 FPGA Board <br>
 -> Vivado Design Suite from Xilinx <br>
 
-- Block Diagram and State Diagram
+- Block Diagram and State Diagram <br>
 [Diagram](https://github.com/c0smin27/VHDL-Stopwatch/blob/main/cronometru.png)
