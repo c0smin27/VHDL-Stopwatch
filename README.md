@@ -10,3 +10,7 @@ The numbers are displayed on the board’s seven-segment display using its anode
 
 ## Block Diagram and State Diagram
 [Diagram](https://github.com/c0smin27/VHDL-Stopwatch/blob/main/cronometru.png)
+
+## Disclaimer
+
+This project was created as part of an academic assignment. Feel free to use it for learning purposes, but please do not submit it as your own work in educational settings.
