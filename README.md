@@ -2,7 +2,7 @@
 
 The stopwatch counts from **00.00 seconds** to **99.99 seconds**. <br>
 It uses two buttons: one for **start/stop** and another for **reset**. <br>
-The numbers are displayed on the board’s seven-segment display using its **anodes and cathodes**. <br>
+The numbers are displayed on the board’s seven-segment display using its anodes and cathodes. <br>
 
 - Hardware/Software <br>
 -> Basys3 Atrix-7 FPGA Board <br>
