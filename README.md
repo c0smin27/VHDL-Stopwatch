@@ -9,7 +9,7 @@ The numbers are displayed on the board’s seven-segment display using its anode
 - Vivado Design Suite from Xilinx
 
 ## Block Diagram and State Diagram
-[Diagram](https://github.com/c0smin27/VHDL-Stopwatch/blob/main/cronometru.png)
+📊 [Diagram](https://github.com/c0smin27/VHDL-Stopwatch/blob/main/cronometru.png)
 
 ## Disclaimer
 
