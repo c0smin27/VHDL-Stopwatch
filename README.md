@@ -9,7 +9,7 @@ The stopwatch counts from **00.00** seconds to **99.99** seconds. It uses two bu
 
 ## Block Diagram and State Diagram
 
-📊 [Diagram](https://github.com/c0smin27/VHDL-Stopwatch/blob/main/cronometru.png)
+📊 [](https://github.com/c0smin27/VHDL-Stopwatch/blob/main/cronometru.png)
 
 ## Disclaimer
 
